@@ -10,6 +10,7 @@ Open your terminal and run "npm install" to Install the dependencies
 
 **Getting Started**
 
+
 Run "npm start" to start the app in your local server.
 
 Open your browser at http://localhost:3000/
